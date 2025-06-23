@@ -1,7 +1,7 @@
 ###############################################
 
 # R script for Statistical analyses
-# Associated to "Trait-specific behavioural plasticity in response to repeated stressor exposure in wild crickets (Gryllus campestris)"
+# Associated to "Trait-specific responses to repeated stressor exposure in wild crickets (Gryllus campestris)"
 # Gilford, Emily R; Li, Ruonan; Rodríguez-Muñoz, Rolando; Tregenza, Tom; Kuijper, Bram
 
 ###############################################
